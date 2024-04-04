@@ -65,7 +65,8 @@ Since the original author has stopped maintaining it due to work, be sure to giv
   - Style fine-tuning
   > v4.3.0 2020-02-19
   - Change settings menu, button can be hidden
-  > v4.2.0 Version history before 2020-02-16 at [Greasy Fork](https://greasyfork.org/zh-CN/scripts/28497-remove-web-limits-modified)
+  > v4.2.0 2020-02-16
+  - Previous release dates can be found at [Greasy Fork](https://greasyfork.org/zh-CN/scripts/28497-remove-web-limits-modified).
   - Get all nodes including nodes in iframe
   - Corrected [Begonia Cultural Novel Website](https://www.myhtlmebook.com/)
   > v4.1.4 2018-07-02
